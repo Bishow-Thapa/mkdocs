@@ -1,4 +1,4 @@
-# Backend Documentation
+# Personal Project Documentation
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
