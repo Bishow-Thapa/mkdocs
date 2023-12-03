@@ -1,0 +1,6 @@
+site_name: My Docs
+site_url: http://bishowthapa.com.np
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
